@@ -80,7 +80,8 @@ The project comprises four main scripts:
 ### Gesture Detection
 
 **Script**: `4_gesture_detector.py`  
-- Uses the trained model to detect and recognize hand gestures in real-time.
+*Uses the trained model to detect and recognize hand gestures in real-time.*
+
 - This script will prompt you with a video capture, using your first registered capture device.
 - Provided that the `labels_dict` code-line is edited accordingly, you can see predicted gestures in real time.
 
