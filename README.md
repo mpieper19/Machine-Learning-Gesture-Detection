@@ -6,7 +6,6 @@ A Python-based project for gesture recognition using machine learning.
 
 - [About the Project](#about-the-project)
 - [Built With](#built-with)
-- [Installation](#installation)
 - [Usage](#usage)
   - [Data Collection](#data-collection)
   - [Dataset Creation](#dataset-creation)
@@ -26,20 +25,7 @@ This project implements a gesture recognition system using Python and machine le
 - Pandas
 - Scikit Learn
 
-## Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/mpieper19/Machine-Learning-Gesture-Detection.git
-   cd Machine-Learning-Gesture-Detection
-   ```
-
-2. **Install the required dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+Use `pip install -r requirements.txt` to install required dependencies.
 
 ## Usage
 
