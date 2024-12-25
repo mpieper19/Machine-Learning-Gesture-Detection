@@ -2,6 +2,8 @@
 
 A Python-based project for gesture recognition using machine learning.
 
+![9euhys-ezgif com-resize](https://github.com/user-attachments/assets/a44305d2-486f-4630-8d53-3c9d832c140a)
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
