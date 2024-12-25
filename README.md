@@ -26,8 +26,6 @@ This project implements a gesture recognition system using Python and machine le
 - Pandas
 - Scikit Learn
 
-Use `pip install -r requirements.txt` to install the required dependencies.
-
 ## Installation
 
 1. **Clone the repository**:
