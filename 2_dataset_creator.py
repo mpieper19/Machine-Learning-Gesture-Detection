@@ -13,7 +13,7 @@ mp_drawing_styles = mp.solutions.drawing_styles
 hands = mp_hands.Hands(static_image_mode=True, min_detection_confidence=0.3)
 
 # Create and write headers for CSV file
-with open('test.csv', 'w', newline='') as file:
+with open('gesture_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     field = [
         'ID', '0_x', '0_y', '1_x', '1_y', '2_x', '2_y', '3_x', '3_y',
